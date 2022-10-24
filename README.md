@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨🏻‍💻I am a beginner backend and frontend developer👨🏻‍💻<br>👨🏻‍🎓I’m currently learning at university, graduation year 2024💻<br>⏰II hope to find a job in the company and move forward every day💵<br>
+👨🏻‍💻I am a beginner backend and frontend developer👨🏻‍💻<br>👨🏻‍🎓I’m currently learning at university, graduation year 2024💻<br>⏰I hope to find a job in the company and move forward every day💵<br>
 
 
 ## 🌐 Socials:
