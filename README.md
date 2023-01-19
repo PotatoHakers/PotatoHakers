@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PotatoHakers)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PotatoHakers&theme=tokyonight&hide_border=false)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PotatoHakers&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PotatoHakers&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PotatoHakers&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
