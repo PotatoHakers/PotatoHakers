@@ -22,7 +22,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+<a href=#><img src="contributions.svg"></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PotatoHakers&icon=2&color=1)](https://visitcount.itsvg.in)
