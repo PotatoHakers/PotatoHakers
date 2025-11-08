@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨🏻‍💻I am a beginner backend, frontend and mobile app developer👨🏻‍💻<br>👨🏻‍🎓I’m currently learning at university, graduation year 2024💻<br>⏰I hope to find a job in the company and move forward every day💵<br>
+👨🏻‍💻I am a beginner backend, frontend and mobile app developer👨🏻‍💻<br>👨🏻‍🎓I graduated from Polesky State University in 2025💻<br>⏰I hope to find a job in the company and move forward every day💵<br>
 
 
 ## 🌐 Socials:
