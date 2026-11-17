@@ -22,3 +22,48 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PotatoHakers&icon=7&color=6)](https://visitcount.itsvg.in)
 
+# Hey, I'm Alexander 👋
+
+### Developer · Tech Enthusiast · Creative Mind
+
+I enjoy building applications and useful tools, especially for my own everyday needs. I like exploring new technologies, experimenting with ideas, and figuring out how things work under the hood.
+
+### A little about me
+
+- 💻 I enjoy building apps for personal use and automating everyday tasks.
+- ⚙️ 1 year of professional experience in IT operations and infrastructure.
+- 🖥️ Worked with computers, servers, networks, hardware and hosting services.
+- 🎬 Video editing is another passion of mine.
+- 🧩 Always experimenting, learning and building something new.
+
+### What I work with
+
+**Development**
+
+`C#` · `Java` · `.NET` · `HTML` · `CSS` · `Android`
+
+**Databases & Tools**
+
+`SQL Server` · `MySQL` · `MongoDB` · `SQLite` · `Firebase` · `Postman` · `Swagger` · `Git`
+
+**Creative**
+
+`After Effects` · `Premiere Pro` · `Photoshop` · `Illustrator`
+
+### A bit beyond programming
+
+I also enjoy video editing and creating visual content. It's a different kind of creativity that lets me combine technology, visuals and storytelling.
+
+[My creative projects](https://tinyurl.com/AlexcreathereelsPortfolio)
+
+### GitHub activity
+
+\<p align="center">   \<img src="[https://github-stats-extended.vercel.app/api?username=PotatoHakers&show_icons=true&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api?username=PotatoHakers\&show_icons=true\&theme=tokyonight\&hide_border=true)" width="49%" />   \<img src="[https://github-stats-extended.vercel.app/api/top-langs/?username=PotatoHakers&layout=compact&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs/?username=PotatoHakers\&layout=compact\&theme=tokyonight\&hide_border=true)" width="49%" /> \</p>
+
+---
+
+\<p align="center">   \<a href="[https://t.me/NOTH1NG_TO_S4Y](https://t.me/NOTH1NG_TO_S4Y)">Telegram\</a> ·   \<a href="[https://www.behance.net/sasha_gerzha](https://www.behance.net/sasha_gerzha)">Behance\</a> ·   \<a href="[https://www.linkedin.com/in/alexander-gerzha-4a407a245/](https://www.linkedin.com/in/alexander-gerzha-4a407a245/)">LinkedIn\</a> \</p>
+
+\<p align="center">   \<i>Just building things I find interesting.\</i> \</p>
+
+
