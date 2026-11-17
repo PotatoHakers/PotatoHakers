@@ -48,10 +48,4 @@ After Effects · Premiere Pro · Photoshop · Illustrator
 ---
 [![](https://visitcount.itsvg.in/api?id=PotatoHakers&icon=7&color=6)](https://visitcount.itsvg.in)
 
----
-
-\<p align="center">   \<a href="[https://t.me/NOTH1NG_TO_S4Y](https://t.me/NOTH1NG_TO_S4Y)">Telegram\</a> ·   \<a href="[https://www.behance.net/sasha_gerzha](https://www.behance.net/sasha_gerzha)">Behance\</a> ·   \<a href="[https://www.linkedin.com/in/alexander-gerzha-4a407a245/](https://www.linkedin.com/in/alexander-gerzha-4a407a245/)">LinkedIn\</a> \</p>
-
-\<p align="center">   \<i>Just building things I find interesting.\</i> \</p>
-
 
