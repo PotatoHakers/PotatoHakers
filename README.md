@@ -24,6 +24,13 @@ Developer · Tech Enthusiast · Creative Mind
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=PotatoHakers&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies">
