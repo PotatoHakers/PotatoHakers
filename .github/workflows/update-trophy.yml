@@ -1,0 +1,33 @@
+
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=PotatoHakers&theme=onedark&column=6&margin-w=12&margin-h=12&no-frame=true&no-bg=true'
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Save trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophy.svg
+          git commit -m "Update GitHub trophies" || exit 0
+          git push
