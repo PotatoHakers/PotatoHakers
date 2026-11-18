@@ -2,7 +2,7 @@
 
 Developer · Tech Enthusiast · Creative Mind
 
-⚙️ 1 year of professional experience in IT operations and infrastructure.
+⚙️ 1+ year of professional experience in IT operations and infrastructure.
 
 🖥️ Worked with computers, servers, networks, hardware and hosting services.
 
