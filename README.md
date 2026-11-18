@@ -15,7 +15,7 @@ Developer · Tech Enthusiast · Creative Mind
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/apiusername=PotatoHakers&show_icons=true&theme=tokyonight&hide_border=true&card_width=900&hide=issues&show=issues_authored&owner=PotatoHakers"
+    src="[https://github-stats-extended.vercel.app/apiusername=PotatoHakers&show_icons=true&theme=tokyonight&hide_border=true&card_width=900&hide=issues&show=issues_authored&owner=PotatoHakers](https://github-stats-extended.vercel.app/api?username=PotatoHakers&show_icons=true&theme=tokyonight&hide_border=true&card_width=900&hide=issues&show=issues_authored&owner=PotatoHakers)"
     width="900"
     alt="GitHub Stats"
   />
