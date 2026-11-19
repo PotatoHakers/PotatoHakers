@@ -29,6 +29,7 @@ Developer · Tech Enthusiast · Creative Mind
   />
 </p>
 
+## 🏆 GitHub Trophies
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/PotatoHakers/PotatoHakers/main/profile/trophy.svg?v=92c60214cae6"
@@ -36,12 +37,6 @@ Developer · Tech Enthusiast · Creative Mind
     alt="GitHub Trophies"
   />
 </p>
-
-## 🏆 GitHub Trophies
-<img
-  src="https://raw.githubusercontent.com/PotatoHakers/PotatoHakers/main/profile/trophy.svg?v=92c60214cae6"
-  alt="GitHub Trophies"
-/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
