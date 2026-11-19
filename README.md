@@ -15,7 +15,7 @@ Developer · Tech Enthusiast · Creative Mind
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=PotatoHakers&show_icons=true&theme=tokyonight&hide_border=true&card_width=900&hide=issues&show=issues_authored&owner=PotatoHakers"
+    src="./profile/stats.svg?v=1"
     width="900"
     alt="GitHub Stats"
   />
@@ -23,7 +23,7 @@ Developer · Tech Enthusiast · Creative Mind
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PotatoHakers&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=900"
+    src="./profile/top-langs.svg?v=1"
     width="900"
     alt="Most Used Languages"
   />
@@ -31,9 +31,9 @@ Developer · Tech Enthusiast · Creative Mind
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=PotatoHakers&theme=tokyonight&hide_border=true&card_width=900"
+    src="https://raw.githubusercontent.com/PotatoHakers/PotatoHakers/main/profile/trophy.svg?v=1"
     width="900"
-    alt="GitHub Streak"
+    alt="GitHub Trophies"
   />
 </p>
 
