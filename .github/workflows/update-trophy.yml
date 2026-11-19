@@ -3,7 +3,7 @@ name: Update GitHub Trophies
 
 on:
   schedule:
-    - cron: "0 8 * * 1"
+  - cron: "15 5 * * *"
   workflow_dispatch:
 
 permissions:
