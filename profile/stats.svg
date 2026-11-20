@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gerzha Alexander&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  (last year) : 141, Total PRs: 21, Total Issues: 20, Issues Created: 20, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits  (last year) : 229, Total PRs: 34, Total Issues: 24, Issues Created: 24, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 174.5916649151684;
+        stroke-dashoffset: 159.44990541593566;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >141</text>
+      >229</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >21</text>
+      >34</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >20</text>
+      >24</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)"><a href="https://github.com/search?q=owner%3APotatoHakers%20author%3APotatoHakers&amp;type=issues">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues_authored"
-      >20</text></a>
+      >24</text></a>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
