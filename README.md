@@ -28,6 +28,13 @@ Developer · Tech Enthusiast · Creative Mind
     alt="Most Used Languages"
   />
 </p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=PotatoHakers&theme=tokyonight&hide_border=true&card_width=900"
+    width="900"
+    alt="GitHub Streak"
+  />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
