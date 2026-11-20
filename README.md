@@ -15,7 +15,7 @@ Developer · Tech Enthusiast · Creative Mind
 
 <p align="center">
   <img
-    src="./profile/stats.svg?v=df03efa7a5d8"
+    src="./profile/stats.svg?v=86dfcfeb6794"
     width="900"
     alt="GitHub Stats"
   />
@@ -39,7 +39,7 @@ Developer · Tech Enthusiast · Creative Mind
 ## 🏆 GitHub Trophies
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/PotatoHakers/PotatoHakers/main/profile/trophy.svg?v=94164fe87a47"
+    src="https://raw.githubusercontent.com/PotatoHakers/PotatoHakers/main/profile/trophy.svg?v=0e557f16eeaf"
     width="900"
     alt="GitHub Trophies"
   />
